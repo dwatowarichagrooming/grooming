@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dwatowarichagrooming.github.io/grooming/sitemap.xml
